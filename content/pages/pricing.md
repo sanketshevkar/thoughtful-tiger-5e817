@@ -1,12 +1,6 @@
 ---
 title: Pricing
 sections:
-  - type: hero_section
-    title: Demo
-    subtitle: Use Web mode to demo the app on the browser.
-    align: center
-    padding_top: large
-    padding_bottom: small
   - type: grid_section
     title: FAQ
     grid_items:
