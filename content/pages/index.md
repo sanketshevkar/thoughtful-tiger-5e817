@@ -97,13 +97,7 @@ sections:
           Organisations like Smallcase, Netflix, Zomato can join the platform
           and create pots and list on the marketplace and users can import these
           to their portfolio.
-        actions:
-          - label: Take a look
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-2.svg
         image_alt: Feature 2 placeholder image
         media_position: right
