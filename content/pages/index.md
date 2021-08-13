@@ -10,7 +10,8 @@ sections:
       party-hard with your friends during the month-end.
     actions:
       - label: Download APK
-        url: /pricing
+        url: >-
+          https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40gatij10/zeta-02f2a00bf2a743a39ad8fa8009d553e9-signed.apk
         style: primary
       - label: Expo Snack
         url: /pricing
