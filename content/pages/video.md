@@ -1,5 +1,5 @@
 ---
-title: Expo Snack Demo
+title: Video
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
