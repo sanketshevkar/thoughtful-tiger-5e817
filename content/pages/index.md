@@ -15,7 +15,7 @@ sections:
       - label: Expo Snack
         url: /pricing
         style: secondary
-    image: /images/feature-2.svg
+    image: /images/1.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
@@ -87,7 +87,7 @@ sections:
           added to yours savings Pot, distributed according to the goal deadline
           of your Pots.
         actions: []
-        image: images/feature-1.svg
+        image: images/3.png
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
@@ -98,7 +98,7 @@ sections:
           and create pots and list on the marketplace and users can import these
           to their portfolio.
         actions: []
-        image: images/feature-2.svg
+        image: images/2.png
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty

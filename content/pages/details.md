@@ -1,5 +1,17 @@
 ---
 title: Details
+sections:
+  - type: hero_section
+    title: Details
+    content: >
+      Details related to tech-stack, important algorithms, systems-design etc. can be found in slideshow linked below.
+    actions:
+      - label: slideshow
+        url: /pricing
+        style: primary
+
+
+
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
@@ -19,5 +31,5 @@ seo:
       value: Privacy Policy
     - name: 'twitter:description'
       value: This is the privacy policy page
-layout: page
+layout: advanced
 ---

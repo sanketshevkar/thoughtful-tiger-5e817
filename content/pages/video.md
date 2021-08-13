@@ -1,5 +1,17 @@
 ---
 title: Video
+sections:
+  - type: hero_section
+    title: Video
+    content: >
+      App demo, workflow and instructions are shown in the video linked below.
+    actions:
+      - label: video
+        url: /pricing
+        style: primary
+
+
+
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
@@ -19,5 +31,5 @@ seo:
       value: Privacy Policy
     - name: 'twitter:description'
       value: This is the privacy policy page
-layout: page
+layout: advanced
 ---

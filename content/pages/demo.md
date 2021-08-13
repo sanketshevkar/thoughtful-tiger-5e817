@@ -1,5 +1,19 @@
 ---
-title: Expo Snack Demo
+title: demo
+sections:
+  - type: hero_section
+    title: Expo Snack Demo
+    content: >
+      Expo Snack is a web app tool using which users can preview a react native mobile application on their
+      mobile devices, both android and ios or on the web itself. Click the button below to navigate to the demo 
+      of the Bachat App.
+    actions:
+      - label: snack demo
+        url: /pricing
+        style: primary
+
+
+
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
@@ -19,5 +33,5 @@ seo:
       value: Privacy Policy
     - name: 'twitter:description'
       value: This is the privacy policy page
-layout: page
+layout: advanced
 ---
