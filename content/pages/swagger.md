@@ -6,7 +6,7 @@ sections:
     content: |
       Link below are Swagger API's for the backend.
     actions:
-      - label: video
+      - label: swagger api
         url: /pricing
         style: primary
 seo:
