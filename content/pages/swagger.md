@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Swagger
     content: |
-      App demo, workflow and instructions are shown in the video linked below.
+      Link below are Swagger API's for the backend.
     actions:
       - label: video
         url: /pricing
