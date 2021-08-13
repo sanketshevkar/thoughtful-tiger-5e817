@@ -3,15 +3,12 @@ title: Video
 sections:
   - type: hero_section
     title: Video
-    content: >
+    content: |
       App demo, workflow and instructions are shown in the video linked below.
     actions:
       - label: video
-        url: /pricing
+        url: 'https://www.youtube.com/watch?v=f8GfvRuKWfs'
         style: primary
-
-
-
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
