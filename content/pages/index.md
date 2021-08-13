@@ -93,10 +93,10 @@ sections:
         media_width: fifty
       - title: Pots Marketplace
         subtitle: Import Pots from Pots Marketplace
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: >
+          Organisations like Smallcase, Netflix, Zomato can join the platform
+          and create pots and list on the marketplace and users can import these
+          to their portfolio.
         actions:
           - label: Take a look
             url: /pricing
