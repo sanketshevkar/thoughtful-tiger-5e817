@@ -7,7 +7,7 @@ sections:
       Link below are Swagger API's for the backend.
     actions:
       - label: swagger api
-        url: /pricing
+        url: 'http://13.233.146.7:8084/swagger-ui.html#/'
         style: primary
 seo:
   title: Privacy Policy
