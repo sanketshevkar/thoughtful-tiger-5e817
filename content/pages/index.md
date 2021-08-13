@@ -86,13 +86,7 @@ sections:
           average daily transactions is deducted from your account i.e. 1 and
           added to yours savings Pot, distributed according to the goal deadline
           of your Pots.
-        actions:
-          - label: Learn More
-            url: /pricing
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.svg
         image_alt: Feature 1 placeholder image
         media_position: left
