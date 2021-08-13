@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Systematically Save Money Before You Save or Invest
+    title: Save First And Then Spend Or Invest
     subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
