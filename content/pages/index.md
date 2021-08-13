@@ -28,7 +28,7 @@ sections:
     subtitle: In a Glance
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: Goal Based Savings
         title_align: left
         content: >-
           See all of your appointments, work meetings and life events in one
