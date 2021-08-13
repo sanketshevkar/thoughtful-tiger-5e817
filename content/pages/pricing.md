@@ -1,5 +1,5 @@
 ---
-title: Snac
+title: Snack
 sections:
   - type: grid_section
     title: FAQ
