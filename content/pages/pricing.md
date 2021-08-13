@@ -38,7 +38,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-    subtitle: sa
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
