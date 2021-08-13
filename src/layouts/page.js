@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import Head from 'next/head';
+import script from 'next/script';
 
 import { Layout } from '../components/index';
 import { markdownify } from '../utils';
