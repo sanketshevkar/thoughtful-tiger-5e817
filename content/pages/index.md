@@ -79,7 +79,7 @@ sections:
   - type: features_section
     features:
       - title: Incentivise Spending
-        subtitle: For true work-life balance
+        subtitle: Save Money As you Spend
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
