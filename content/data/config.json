@@ -34,13 +34,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Google Play",
-                "url": "/pricing",
-                "style": "secondary"
-            }
-        ]
+        "secondary_nav_links": []
     },
     "footer": {
         "logo": "images/logo.svg",
