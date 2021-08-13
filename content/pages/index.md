@@ -12,7 +12,7 @@ sections:
       - label: Download APK
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Expo Snack
         url: /pricing
         style: secondary
     image: /images/feature-2.svg
