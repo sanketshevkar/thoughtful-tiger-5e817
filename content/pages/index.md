@@ -58,9 +58,9 @@ sections:
         image_position: top
       - title: Social-Connect
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          Share with your friends and family about your financial progress and
+          what are you are spending on or investing in.
         content_align: left
         actions: []
         actions_align: left
