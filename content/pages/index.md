@@ -31,9 +31,9 @@ sections:
       - title: Goal Based Savings
         title_align: left
         content: >
-          Set your short term savings goals depending upon your needs. Using the
-          daily transaction limit and the deduction rate the user sets, the
-          goals are fulfilled.
+          Set your short term savings Pots depending upon your financial goals.
+          Using the daily transaction limit and the deduction rate the user
+          sets, the goals are fulfilled.
         content_align: left
         actions: []
         actions_align: left
