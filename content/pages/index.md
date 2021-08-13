@@ -113,14 +113,6 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”
-        subtitle: 'Alyvia Cope, Design at Company'
-        image: images/person-1.png
-        image_alt: Person 1 photo
-        media_position: right
-        media_width: thirty-three
       - title: “A very useful project management app. I use it every day.”
         subtitle: 'Travis Guidelines, Manager at Company'
         image: images/person-2.png
