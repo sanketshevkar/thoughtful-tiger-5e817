@@ -2,7 +2,7 @@
 title: Video
 sections:
   - type: hero_section
-    title: Video
+    title: Swagger
     content: |
       App demo, workflow and instructions are shown in the video linked below.
     actions:
