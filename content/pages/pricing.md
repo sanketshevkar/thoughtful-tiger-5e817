@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Snac
 sections:
   - type: grid_section
     title: FAQ
