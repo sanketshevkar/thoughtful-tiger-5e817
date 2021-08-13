@@ -12,15 +12,6 @@ sections:
       - label: Download APK
         url: /pricing
         style: primary
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
       - label: Expo Snack
         url: /pricing
         style: secondary
