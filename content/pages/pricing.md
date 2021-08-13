@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Demo
-    subtitle: 'App Land offers affordable plans for private, family and business use.'
+    subtitle: Use Web mode to demo the app on the browser.
     align: center
     padding_top: large
     padding_bottom: small
