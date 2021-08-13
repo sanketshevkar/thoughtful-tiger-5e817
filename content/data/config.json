@@ -29,7 +29,7 @@
             },
             {
                 "label": "Swagger",
-                "url": "#",
+                "url": "/swagger",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
