@@ -14,7 +14,9 @@ export default class Page extends React.Component {
         const markdownContent = _.get(page, 'markdown_content');
 
         return (
-            <Head></Head>
+            <Head>
+            
+            </Head>
             <Layout page={page} config={config}>
                 <article className="page py-5 py-sm-6">
                     <div className="container container--medium">
