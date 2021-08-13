@@ -30,9 +30,10 @@ sections:
     grid_items:
       - title: Goal Based Savings
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Set your short term savings goals depending upon your needs. Using the
+          daily transaction limit and the deduction rate the user sets, the
+          goals are fulfilled.
         content_align: left
         actions:
           - label: Learn More
