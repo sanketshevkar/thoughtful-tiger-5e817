@@ -1,23 +1,23 @@
 ---
-title: Privacy Policy
+title: Expo Snack Demo
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Privacy Policy
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the privacy policy page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Privacy Policy
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the privacy policy page
 layout: page
 ---
