@@ -14,7 +14,7 @@ sections:
           https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40gatij10/zeta-02f2a00bf2a743a39ad8fa8009d553e9-signed.apk
         style: primary
       - label: Expo Snack
-        url: /pricing
+        url: 'https://snack.expo.dev/@git/github.com/sanketshevkar/zeta-demo'
         style: secondary
     image: /images/1.png
     image_alt: Hero section placeholder image
