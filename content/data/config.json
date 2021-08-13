@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "Snack Demo",
-                "url": "/privacy-policy",
+                "url": "/demo",
                 "style": "link"
             },
             {
