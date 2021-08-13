@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import Head from 'next/head';
-import script from 'next/script';
+import Script from 'next/script';
 
 import { Layout } from '../components/index';
 import { markdownify } from '../utils';
@@ -25,7 +25,7 @@ export default class Page extends React.Component {
                 </article>
             </Layout>
             <div data-snack-id="@sanketshevkar/unnamed-snack" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#F9F9F9;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.dev/embed.js"></script>
+<Script async src="https://snack.expo.dev/embed.js"></script>
             </Head>
         );
     }
