@@ -80,9 +80,12 @@ sections:
     features:
       - title: Incentivise Spending
         subtitle: Save Money As you Spend
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          Say your account has 1000 and your average daily transactions are
+          worth 10. If you set the deduction rate as 10%. Then 10% of your
+          average daily transactions is deducted from your account i.e. 1 and
+          added to yours savings Pot, distributed according to the goal deadline
+          of your Pots.
         actions:
           - label: Learn More
             url: /pricing
