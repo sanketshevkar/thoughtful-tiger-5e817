@@ -4,10 +4,10 @@ sections:
   - type: hero_section
     title: Save First And Then Spend Or Invest
     subtitle: Goal Based Systematic Savings Plan To Save Money
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Create or Import Savings Pot depending upon your goals, buy Netflix
+      subscription, invest in a Smallcase SIP or save money to go out and
+      party-hard with your friends during the month-end.
     actions:
       - label: Download APK
         url: /pricing
