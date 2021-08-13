@@ -4,14 +4,13 @@ sections:
   - type: hero_section
     title: Details
     content: >
-      Details related to tech-stack, important algorithms, systems-design etc. can be found in slideshow linked below.
+      Details related to tech-stack, important algorithms, systems-design etc.
+      can be found in slideshow linked below.
     actions:
       - label: slideshow
-        url: /pricing
+        url: >-
+          https://docs.google.com/presentation/d/1tJ-ixMlejhV87MCwbXpwk_QKymq2WQZkHNjBSondraQ/edit?usp=sharing
         style: primary
-
-
-
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
