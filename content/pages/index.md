@@ -44,9 +44,10 @@ sections:
         image_position: top
       - title: Analytics and Insights
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          Bachat app gives you insights about your progress and helps to
+          maintain on your track to fill your savings Pot and complete your
+          goals.
         content_align: left
         actions: []
         actions_align: left
